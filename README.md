@@ -1,6 +1,7 @@
+
 # 5172
 
-<!-- ![1373](https://user-images.githubusercontent.com/110813/131846435-09558cf7-0d75-4cb9-87f0-c98ee058581c.png) -->
+![5172](https://user-images.githubusercontent.com/20258178/131888044-caea1e5b-eec5-423e-a17f-4ab2de60de70.png)
 
 - Book
 - Demon Husk
